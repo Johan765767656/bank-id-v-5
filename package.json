@@ -4,7 +4,7 @@
   "description": "Library for Swedish BankID",
   "license": "MIT",
   "engines": {
-    "node": ">=18"
+    "node": "22.x"
   },
   "scripts": {
     "test": "node --test tests/"
