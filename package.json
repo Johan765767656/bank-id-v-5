@@ -1,0 +1,12 @@
+{
+  "name": "bank-id",
+  "version": "2.1.1",
+  "description": "Library for Swedish BankID",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  }
+}
